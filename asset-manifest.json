@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/birdvision/static/css/main.3b48b423.css",
+    "main.js": "/birdvision/static/js/main.e2778130.js",
+    "static/js/453.2cacb293.chunk.js": "/birdvision/static/js/453.2cacb293.chunk.js",
+    "index.html": "/birdvision/index.html",
+    "main.3b48b423.css.map": "/birdvision/static/css/main.3b48b423.css.map",
+    "main.e2778130.js.map": "/birdvision/static/js/main.e2778130.js.map",
+    "453.2cacb293.chunk.js.map": "/birdvision/static/js/453.2cacb293.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b48b423.css",
+    "static/js/main.e2778130.js"
+  ]
+}
